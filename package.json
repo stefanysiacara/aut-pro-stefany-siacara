@@ -1,0 +1,14 @@
+{
+  "name": "aut-pro-stefany-siacara",
+  "version": "1.0.0",
+  "description": "test automation project 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "project-name-generator": "^2.1.9"
+  }
+}
